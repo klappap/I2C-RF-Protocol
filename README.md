@@ -7,4 +7,7 @@ Used for a custom built RF sensor
 - RF Sensor with Qwiic cable connector
 
 # Contents
-There are directories containing an RF sensor data logger, RF + IMU data logger, RF + IMU + GPS data logger
+There are directories containing: 
+1. RF sensor data logger 
+2. RF + IMU data logger
+3. RF + IMU + GPS data logger
